@@ -18,6 +18,7 @@ import java.lang.reflect.Method;
  * Function: 状态栏工具类(状态栏文字颜色)
  * Desc:
  */
+@SuppressWarnings("unchecked")
 public class StatusBarUtil {
 
     public static final int STATUS_BAR_TYPE_DEFAULT = 0;
